@@ -1,4 +1,32 @@
+body{
+	background-color: #E3E8D9;
+	font-family: 'Roboto Mono', monospace;
+	text-align: justify;
+}
+
 h1{
-    color: #B2BFAD;
-    background-color: #4E9231;
+    color: #81A035;
+
+}
+
+ul{
+	background-color: rgba(175, 196, 124, .8);
+	text-align: center;
+
+}
+
+li{
+	list-style: none;
+	display: inline-table;
+	margin: 0 80px 0 0;
+}
+
+a{
+	text-decoration: none;
+	color: #3F5900; 
+}
+
+img{
+	float: right;
+	margin: 20px 0 0 20px;
 }
